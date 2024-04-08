@@ -7,4 +7,5 @@ C/C++ Programming을 좋아합니다.
 Name : Jung Choi<br/>
 Birth Date(age) : 08/03/2002(21)<br/>
 Nation : Republic of Korea(South Korea)<br/>
-Major: Computer Science Engineering at Yeungnam University<br/>
+Major : Computer Science Engineering at Yeungnam University<br/>
+Email : chlwjd0803@naver.com
