@@ -6,5 +6,5 @@ C/C++ Programming을 좋아합니다.
 ## Information<br/>
 Name : Jung Choi<br/>
 Birth Date(age) : 08/03/2002(21)<br/>
-Nationality : Republic of Korea(South Korea)<br/>
-Highest education: 2nd year student majoring in computer engineering at Yeungnam University<br/>
+Nation : Republic of Korea(South Korea)<br/>
+Major: Computer Science Engineering at Yeungnam University<br/>
