@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=300&section=header&text=CJ'GITHUB&fontSize=60" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=footer&text=HelloWorld!&fontSize=60" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlwjd0803)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Introduction<br/>
 안녕하세요.<br/>
 C/C++ Programming을 좋아합니다.<br/>
