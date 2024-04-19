@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+
 ## Introduction<br/>
 안녕하세요.<br/>
 C/C++ Programming을 좋아합니다.<br/>
