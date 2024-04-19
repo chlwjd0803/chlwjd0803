@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FFA500&height=150&section=header&text=CJ'GITHUB&fontSize=30" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6495ED&height=300&section=footer&text=HelloWorld!&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFA500&height=300&section=header&text=CJ'GITHUB&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=6495ED&height=300&section=footer&text=HelloWorld!&fontSize=60" />
 
 ## Introduction<br/>
 안녕하세요.<br/>
