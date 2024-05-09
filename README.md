@@ -7,7 +7,7 @@
 안녕하세요.<br/>
 C/C++ Programming을 좋아합니다.<br/>
 추가로 공부하길 희망하는 분야는 Swift, C# 입니다.<br/>
-최근관심을 가지고 보고 있는 분야는 Application Development 입니다.<br/>
+최근관심을 가지고 보고 있는 분야는 Mobile Application Development 입니다.<br/>
 
 <br/>
 
