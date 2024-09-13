@@ -5,8 +5,9 @@
 
 ## Introduction<br/>
 안녕하세요.<br/>
-C/C++, Kotlin Programming를 배웠습니다.<br/>
-추가로 공부하길 희망하는 분야는 Swift, Java 입니다.<br/>
+C/C++, Python을 배웠습니다.<br/>
+현재 Java/Kotlin을 공부하고 있습니다.<br/>
+추가로 공부하길 희망하는 분야는 Swift입니다.<br/>
 최근관심을 가지고 보고 있는 분야는 Mobile Application Development 입니다.<br/>
 
 <br/>
