@@ -3,12 +3,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlwjd0803)](https://github.com/anuraghazra/github-readme-stats)
 
-## Introduction<br/>
-안녕하세요.<br/>
-C/C++, Python을 배웠습니다.<br/>
-현재 Java/Kotlin을 공부하고 있습니다.<br/>
-추가로 공부하길 희망하는 분야는 Swift입니다.<br/>
-최근관심을 가지고 보고 있는 분야는 Mobile Application Development 입니다.<br/>
+## Available Languages<br/>
+C++, Python<br/>
+## Language being studied<br/>
+Java, Kotlin
 
 <br/>
 
