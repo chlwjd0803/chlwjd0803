@@ -21,13 +21,13 @@
 ## 🛠️ Tech Stack
 ### **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) <!-- 갈색 설정 -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Mustache](https://img.shields.io/badge/Mustache-734F32?style=flat-square) <!-- 고동색 설정 -->
+![Mustache](https://img.shields.io/badge/Mustache-734F32?style=flat-square)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -40,6 +40,10 @@
 ---
 
 ## 📂 Projects
+### ✅ **To-Do List Web Application**
+- Using **Spring Boot 3 + Mustache** for a simple and **efficient task management** tool
+- **Database:** PostgreSQL
+
 ### 🚗 **Autonomous RC Car with Ultrasonic Sensor**
 - Developed an **autonomous driving RC car** using an **Arduino and ultrasonic sensor**
 - Implemented obstacle avoidance logic
@@ -47,10 +51,6 @@
 ### 🎵 **Mind Music Diary**
 - Developing a **music streaming web app** with **Spring Boot**
 - Integrates **Spotify API** and **emotion journaling**
-
-### ✅ **To-Do List Web Application**
-- Using **Spring Boot 3 + Mustache** for a simple and **efficient task management** tool
-- **Database:** PostgreSQL
 
 ---
 
