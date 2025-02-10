@@ -44,11 +44,11 @@
 - Using **Spring Boot 3 + Mustache** for a simple and **efficient task management** tool
 - **Database:** PostgreSQL
 
-### 🚗 **Autonomous RC Car with Ultrasonic Sensor**
+### ~~🚗 **Autonomous RC Car with Ultrasonic Sensor**~~
 - Developed an **autonomous driving RC car** using an **Arduino and ultrasonic sensor**
 - Implemented obstacle avoidance logic
 
-### 🎵 **Mind Music Diary**
+### ~~🎵 **Mind Music Diary**~~
 - Developing a **music streaming web app** with **Spring Boot**
 - Integrates **Spotify API** and **emotion journaling**
 
