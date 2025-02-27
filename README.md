@@ -21,12 +21,12 @@
 ## 🛠️ Tech Stack
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,arduino,html,css,javascript" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java" alt="Tech Stack"/>
 </p>
 
 ### **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postgresql,spring" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=idea,spring,postgresql,git,github,visualstudio" alt="Tools & Platforms"/>
 </p>
 
 ---
