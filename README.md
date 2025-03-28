@@ -32,7 +32,7 @@
 ---
 
 ## 📂 Projects
-### ✅ **To-Do List Web Application**
+### ✅ **To-Do List Web Application (YU OSS Design Project)**
 - Using **Spring Boot 3 + Mustache** for a simple and **efficient task management** tool
 - **Database:** PostgreSQL
 
