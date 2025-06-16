@@ -16,17 +16,16 @@
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
 - **💡 Interests:** Web development
 - **📌 Currently Learning:** Java BackEnd, Spring Boot
-- **🎯 Goal:** Developing a music streaming web application & a to-do list app with Spring Boot
 
 ## 🛠️ Tech Stack
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Tech Stack"/>
 </p>
 
 ### **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,spring,postgresql,git,github,visualstudio" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=idea,spring,mysql,git,github" alt="Tools & Platforms"/>
 </p>
 
 ---
@@ -34,7 +33,7 @@
 ## 📂 Projects
 ### ✅ **To-Do List Web Application (YU OSS Design Project)**
 - Using **Spring Boot 3 + Mustache** for a simple and **efficient task management** tool
-- **Database:** PostgreSQL
+- **Database:** MySQL
 
 ---
 
