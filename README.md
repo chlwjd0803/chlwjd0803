@@ -41,7 +41,7 @@
 - **주요 기능**: 여권/비자 CRUD, AI 챗봇과의 실시간 대화, 입국 승인/거절 결정.
 - **기술 스택**: Spring Boot, MySQL, OpenAI API, Thymeleaf
 
-### ✅ **CoCoNut-BE (팀 프로젝트)**
+### ✅ **CoCoNut-BE (멋쟁이 사자처럼 해커톤 팀 프로젝트)**
 - **소개**: 공모전 플랫폼의 백엔드 시스템으로, 공모전 생성부터 작품 제출, 투표, 보상 지급까지 전반적인 프로세스를 관리합니다.
 - **주요 기능**: 공모전/작품 관리, 투표 시스템, 우승자 선정, 클라우드 기반 이미지 업로드.
 - **기술 스택**: Spring Boot, MySQL, Google Cloud Storage, OpenAI API
