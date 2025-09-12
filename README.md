@@ -15,8 +15,8 @@
 ## 🚀 About Me
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
 - **💡 Interests:** Web development
-- **📌 Currently Learning:** Java BackEnd, Spring Framework
-- **🤓 Want To Learn:** JavaScript, Kotlin, Django Framework
+- **📌 Currently Learning:** Spring Framework, Python Review
+- **🤓 Want To Learn:** JavaScript, Kotlin, Django Framework, vue.js
 
 ## 🛠️ Tech Stack
 ### **Languages**
@@ -24,9 +24,14 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Tech Stack"/>
 </p>
 
-### **Tools & Platforms**
+### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,spring,mysql,git,github" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Tech Stack"/>
+</p>
+
+### **Tools & Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,aws,docker" alt="Tools & Platforms"/>
 </p>
 
 ---
