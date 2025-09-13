@@ -31,7 +31,7 @@
 
 ### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,aws,docker" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,aws,docker" alt="Tools & Platforms"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ### ✅ **[To-Do List Web Application (YU OSS 설계 개인 프로젝트)](https://github.com/chlwjd0803/Todo-List_Project_repo)**
 - **소개**: 사용자의 할 일을 효율적으로 관리하는 Spring Boot 기반 웹 애플리케이션입니다.
 - **주요 기능**: 할 일/카테고리 관리, 진행 상태(준비/완료) 변경, 마이페이지에서 개인 진행률 및 전체 랭킹 확인.
-- **기술 스택**: Spring, MySQL, Mustache
+- **기술 스택**: Spring, MySQL, Mustache(Spring MVC)
 
 
 ### 🌉 **[Bridge (CoCoNut_was)](https://github.com/Likelion-YeungNam-Univ/CoCoNut-was)**
@@ -57,8 +57,8 @@
 ---
 
 ## 🧐 **[SE Lab Research Projects](https://github.com/chlwjd0803/YU_SE_Lab)**  
-### 🔁 Spring Boot 3 : Infinity Redirection Problem
-- **요약**: Docker 환경에서 발생하는 Spring Boot 무한 리다이렉션 문제를 분석하고 해결한 프로젝트입니다. 뷰 이름의 슬래시 사용이 원인이었음을 밝히고, 정적 분석 도구를 통해 코딩 컨벤션을 강제하여 문제를 근본적으로 해결하는 방법을 제시합니다.
+### 🔁 Spring : Infinity Redirection Problem
+- **요약**: Docker 환경에서 발생하는 Spring 무한 리다이렉션 문제를 분석하고 해결한 프로젝트입니다. 뷰 이름의 슬래시 사용이 원인이었음을 밝히고, 정적 분석 도구를 통해 코딩 컨벤션을 강제하여 문제를 근본적으로 해결하는 방법을 제시합니다.
 
 ### ⌛️ Spring : DTO Mapping Benchmark
 - **요약**: Spring Boot에서 JPA의 **Fetch 전략(LAZY vs EAGER)**과 DTO 변환 위치가 대용량 데이터 조회 성능에 미치는 영향을 분석한 실험입니다. 특정 아키텍처가 아닌 런타임 환경에 따라 최적의 성능을 내는 구조가 달라진다는 중요한 통찰을 제시합니다.
