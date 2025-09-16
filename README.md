@@ -14,36 +14,36 @@
 
 ## 🚀 About Me
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
-- **💡 Interests:** Web development
-- **📌 Currently Learning:** Spring Framework, Python Review
-- **🤓 Want To Learn:** JavaScript, Kotlin, Django Framework, vue.js
+- **💡 Interests:** Backend development
+- **📌 Currently Learning:** Spring Framework Advanced, Python Basic
+- **🤓 Want To Learn:** JavaScript, Kotlin, Django Framework, Vue
 
 ## 🛠️ Tech Stack
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java&theme=light" alt="Tech Stack"/>
 </p>
 
 ### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Tech Stack"/>
 </p>
 
 ### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,aws,docker" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,aws,docker&theme=light" alt="Tools & Platforms"/>
 </p>
 
 ---
 
 ## 📂 Academic Projects
-### ✅ **[To-Do List Web Application (YU OSS 설계 개인 프로젝트)](https://github.com/chlwjd0803/Todo-List_Project_repo)**
+### ✅ **[Power J (YU OSS 설계 개인 프로젝트)](https://github.com/chlwjd0803/Todo-List_Project_repo)**
 - **소개**: 사용자의 할 일을 효율적으로 관리하는 Spring Boot 기반 웹 애플리케이션입니다.
 - **주요 기능**: 할 일/카테고리 관리, 진행 상태(준비/완료) 변경, 마이페이지에서 개인 진행률 및 전체 랭킹 확인.
 - **기술 스택**: Spring, MySQL, Mustache(Spring MVC)
 
 
-### 🌉 **[Bridge (CoCoNut_was)](https://github.com/Likelion-YeungNam-Univ/CoCoNut-was)**
+### 🌉 **[Bridge (LikeLion 13th Hackathon)](https://github.com/Likelion-YeungNam-Univ/CoCoNut-was)**
 - **소개**: 공모전 플랫폼의 백엔드 시스템으로, 공모전 생성부터 작품 제출, 투표, 보상 지급까지 전반적인 프로세스를 관리합니다.
 - **주요 기능**: 공모전/작품 관리, 투표 시스템, 우승자 선정, 클라우드 기반 이미지 업로드.
 - **기술 스택**: Spring, MySQL, Google Cloud Storage, OpenAI API
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧐 **[SE Lab Research Projects](https://github.com/chlwjd0803/YU_SE_Lab)**  
+## 🧐 **[Research Projects](https://github.com/chlwjd0803/YU_SE_Lab)**  
 ### 🔁 Spring : Infinity Redirection Problem
 - **요약**: Docker 환경에서 발생하는 Spring 무한 리다이렉션 문제를 분석하고 해결한 프로젝트입니다. 뷰 이름의 슬래시 사용이 원인이었음을 밝히고, 정적 분석 도구를 통해 코딩 컨벤션을 강제하여 문제를 근본적으로 해결하는 방법을 제시합니다.
 
