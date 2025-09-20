@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin&theme=light" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Tech Stack"/>
 </p>
 
 ### **Frameworks & Libraries**
