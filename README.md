@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=300&section=header&text=Jung%20Choi&fontSize=80&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9bbefc&height=300&section=header&text=Jung%20Choi&fontSize=80&width=100%" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chlwjd0803&show_icons=true&theme=tokyonight" />
@@ -11,78 +11,38 @@
 </p>
 
 ---
+## 💼 Portfolio
+> ### 📜 [**CJ's Portfolio Notion Pages**](https://www.notion.so/26cac7186b6380179e0bf7c9aba60f55?source=copy_link)
+
 
 ## 🚀 About Me
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
 - **💡 Interests:** Backend development
-- **📌 Currently Learning:** Java based Spring Framework Advanced, Python Basic, Kotlin based Spring Framework
+- **📌 Currently Learning:** Java based Spring Framework Advanced, Kotlin based Spring Framework
 
 ## 🛠️ Tech Stack
-### **Languages**
+### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=light"/>
 </p>
 
-### **Frameworks & Libraries**
+### **DataBase**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
 </p>
 
-### **Tools & Technologies**
+### **Version Control & Deployment**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,aws,docker&theme=light" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker&theme=light"/>
 </p>
 
----
-
-## 📂 Academic Projects
-### ✅ **[Power J (YU OSS 설계 개인 프로젝트)](https://github.com/chlwjd0803/Todo-List_Project_repo)**
-- **소개**: 사용자의 할 일을 효율적으로 관리하는 Spring Boot 기반 웹 애플리케이션입니다.
-- **주요 기능**: 할 일/카테고리 관리, 진행 상태(준비/완료) 변경, 마이페이지에서 개인 진행률 및 전체 랭킹 확인.
-- **기술 스택**: Spring, MySQL, Mustache(Spring MVC)
-
-
-### 🌉 **[Bridge (LikeLion 13th Hackathon)](https://github.com/Likelion-YeungNam-Univ/CoCoNut-was)**
-- **소개**: 공모전 플랫폼의 백엔드 시스템으로, 공모전 생성부터 작품 제출, 투표, 보상 지급까지 전반적인 프로세스를 관리합니다.
-- **주요 기능**: 공모전/작품 관리, 투표 시스템, 우승자 선정, 클라우드 기반 이미지 업로드.
-- **기술 스택**: Spring, MySQL, Google Cloud Storage, OpenAI API
-
-
-### 🌌 **[Starlet_was (YU SE 팀 프로젝트)](https://github.com/2025-YU-SE-Project/Starlet_was)**
-- **소개**: 별자리 감정일기 플랫폼의 백엔드 시스템입니다. 회원가입, 일기작성, 별 및 별자리 위치정보 저장 등을 담당했습니다.
-- **주요 기능**: 회원가입 및 로그인, 일기작성, 별자리 만들기, 별 및 별자리 이동, 마이페이지 관리
-- **기술 스택**: Spring, MySQL, AWS S3
-
----
-
-## 🧐 **[Research Projects](https://github.com/chlwjd0803/YU_SE_Lab)**  
-### 🔁 Spring : Infinity Redirection Problem
-- **요약**: Docker 환경에서 발생하는 Spring 무한 리다이렉션 문제를 분석하고 해결한 프로젝트입니다. 뷰 이름의 슬래시 사용이 원인이었음을 밝히고, 정적 분석 도구를 통해 코딩 컨벤션을 강제하여 문제를 근본적으로 해결하는 방법을 제시합니다.
-
-### ⌛️ Spring : DTO Mapping Benchmark
-- **요약**: Spring Boot에서 JPA의 **Fetch 전략(LAZY vs EAGER)**과 DTO 변환 위치가 대용량 데이터 조회 성능에 미치는 영향을 분석한 실험입니다. 특정 아키텍처가 아닌 런타임 환경에 따라 최적의 성능을 내는 구조가 달라진다는 중요한 통찰을 제시합니다.
-
----
-
-## 🏭 Industry Projects
-
----
-
-## 👨‍🎓 Study
-### 🏛️ **자료구조 및 알고리즘 학습**
-- **소개**: 컴퓨터공학과 수업(자료구조, 알고리즘)에서 작성한 C, C++, Java, Kotlin 코드 모음입니다.
-- **주요 내용**: 연결 리스트, 스택, 큐, 이진 탐색 트리와 같은 핵심 자료구조 및 다양한 정렬 알고리즘 구현.
-
-### 💿 **운영체제 페이지 교체정책 텀 프로젝트**
-- **소개**: 컴퓨터공학과 운영체제 수업 텀 프로젝트로 제시된 페이지 교체정책 알고리즘에 대한 구현 코드 입니다.
-- **주요 내용**: FIFO, LRU, Optimal, HOL(제작 알고리즘) 교체정책 코드를 구현하고 성능을 실험. 
 
 ---
 
 ## 📬 Contact Me
-📧 Email: **chlwjd0803@naver.com**  
+📧 Email: **chlwjd0803@naver.com**, **choijung0803@gmail.com**
 💻 GitHub: **[chlwjd0803](https://github.com/chlwjd0803)**  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=footer&text=Thank%20You!&fontSize=80&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=feb070&height=300&section=footer&text=Thank%20You!&fontSize=80&width=100%" />
