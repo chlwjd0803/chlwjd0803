@@ -12,8 +12,7 @@
 
 ---
 ## 💼 Portfolio
-> ### 📜 [**CJ's Portfolio Notion Pages**](https://www.notion.so/26cac7186b6380179e0bf7c9aba60f55?source=copy_link)
-
+> ### 📜 <a href="https://www.notion.so/26cac7186b6380179e0bf7c9aba60f55?source=copy_link" target="_blank">**CJ's Portfolio Notion Pages**</a>
 
 ## 🚀 About Me
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
