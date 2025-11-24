@@ -17,7 +17,7 @@
 ## 🚀 About Me
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
 - **💡 Interests:** Backend development
-- **📌 Currently Learning:** Java based Spring Framework Advanced, Kotlin based Spring Framework
+- **📌 Currently Learning:** Java based Spring Framework Advanced
 
 ## 🛠️ Tech Stack
 ### **Languages & Frameworks**
