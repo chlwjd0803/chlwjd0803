@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9bbefc&height=300&section=header&text=Jung%20Choi&fontSize=80&width=100%" />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chlwjd0803&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -8,7 +8,17 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlwjd0803&layout=compact&theme=tokyonight" />
   </a>
-</p>
+</p> -->
+
+
+![GitHub Card](https://githubcard.com/chlwjd0803.svg)
+
+
+
+![GitHub Card](https://githubcard.com/chlwjd0803.svg?d=f-rSzjGD)
+
+
+
 
 ---
 ## 💼 Portfolio
