@@ -15,10 +15,6 @@
 
 
 
-![GitHub Card](https://githubcard.com/chlwjd0803.svg?d=f-rSzjGD)
-
-
-
 
 ---
 ## 💼 Portfolio
