@@ -26,21 +26,9 @@
 - **📌 Currently Learning:** Java based Spring Framework Advanced
 
 ## 🛠️ Tech Stack
-### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker&theme=light"/>
 </p>
-
-### **DataBase**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
-</p>
-
-### **Version Control & Deployment**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,docker&theme=light"/>
-</p>
-
 
 ---
 
