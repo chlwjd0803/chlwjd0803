@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker&theme=light"/>
 </p>
 
 ---
