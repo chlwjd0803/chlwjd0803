@@ -23,11 +23,11 @@
 ## 🚀 About Me
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
 - **💡 Interests:** Backend development
-- **📌 Currently Learning:** Java based Spring Framework Advanced
+- **📌 Currently Learning:** FastAPI, Spring Boot 4 & Spring AI 2.0
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,mongodb,docker&theme=light"/>
 </p>
 
 ---
