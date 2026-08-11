@@ -18,16 +18,16 @@
 
 ---
 ## 💼 Portfolio
-> ### 📜 <a href="https://www.notion.so/26cac7186b6380179e0bf7c9aba60f55?source=copy_link" target="_blank">**CJ's Portfolio Notion Pages**</a>
+> ### 📜 <a href="[https://www.notion.so/26cac7186b6380179e0bf7c9aba60f55?source=copy_link](https://www.linkedin.com/in/%EC%A0%95-%EC%B5%9C-a3b085385/)" target="_blank">**CJ's LinkedIn**</a>
 
 ## 🚀 About Me
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
 - **💡 Interests:** Backend development
 - **📌 Currently Learning:** FastAPI, Spring Boot 4 & Spring AI 2.0
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,mongodb,docker&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,fastapi,mysql,mongodb,docker&theme=light"/>
 </p>
 
 ---
