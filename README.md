@@ -17,9 +17,6 @@
 
 
 ---
-## 💼 Portfolio
-> ### 📜 <a href="[https://www.notion.so/26cac7186b6380179e0bf7c9aba60f55?source=copy_link](https://www.linkedin.com/in/%EC%A0%95-%EC%B5%9C-a3b085385/)" target="_blank">**CJ's LinkedIn**</a>
-
 ## 🚀 About Me
 - **👨‍🎓 Major:** Computer Science Engineering at Yeungnam University
 - **💡 Interests:** Backend development
@@ -33,8 +30,9 @@
 ---
 
 ## 📬 Contact Me
-📧 Email: **chlwjd0803@naver.com**, **choijung0803@gmail.com**
-💻 GitHub: **[chlwjd0803](https://github.com/chlwjd0803)**  
+📧 Email: **chlwjd0803@naver.com**, **choijung0803@gmail.com**  
+💻 GitHub: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chlwjd0803)  
+🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A0%95-%EC%B5%9C-a3b085385/)
 
 ---
 
